@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 2, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: FCC ES6 challenges.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I initially wanted to work on FCC back end certificate, NPM challenge. Cloud9 (now AWS owned) not recognizing "how-to-npm" command. Multiple attempts to make this work, no luck. Switched to beta.fcc ES6 challenges, no commits. Will start commits tomorrow.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
