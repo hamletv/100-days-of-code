@@ -8,14 +8,13 @@
 
 **Link to work:**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 3, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: FCC ES6 challenges, night 2
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Enjoying ES6. Was already somewhat familiar with syntax changes and new features but haven't been using them. Will definitely start to use from now on. Really like function syntax.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
 
 
 ### Day 1: June 27, Monday
