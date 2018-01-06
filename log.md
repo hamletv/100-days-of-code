@@ -17,10 +17,19 @@
 **Link(s) to work**:
 
 
-### Day 1: January 4, 2018
+### Day 2: January 4, 2018
 
 **Today's Progress**: FCC ES6 challenges, night 3.
 
 **Thoughts** Happy to be learning ES6 more in depth. Would like to work on project I can commit into GitHub, just for the purpose of being able to show a link to work. Having something to show in portfolio would be nice too. Onwards!
+
+**Link(s) to work**:
+
+
+### Day 3: January 5, 2018
+
+**Today's Progress**: FCC ES6 challenges, night 4.
+
+**Thoughts** I've read, heard and seen of CSS magic but regular expressions magic too. Python project tomorrow...?
 
 **Link(s) to work**:
