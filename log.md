@@ -33,3 +33,12 @@
 **Thoughts** I've read, heard and seen of CSS magic but regular expressions magic too. Python project tomorrow...?
 
 **Link(s) to work**:
+
+
+### Day 4: January 6, 2018
+
+**Today's Progress**: New project started: web scraper, night 5.
+
+**Thoughts** Starting work on web scraper with Python
+
+**Link(s) to work**: coming soon
