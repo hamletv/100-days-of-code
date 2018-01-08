@@ -42,3 +42,12 @@
 **Thoughts** Starting work on web scraper with Python
 
 **Link(s) to work**: coming soon
+
+
+### Day 5: January 7, 2018
+
+**Today's Progress**: Web scraper continued, switched to Linux (Ubuntu) OS, Windows not cutting it.
+
+**Thoughts** Continued work on web scraper with Python, not completed yet. Hoping it works.
+
+**Link(s) to work**: https://github.com/hamletv/web_scraper
