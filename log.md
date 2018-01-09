@@ -51,3 +51,12 @@
 **Thoughts** Continued work on web scraper with Python, not completed yet. Hoping it works.
 
 **Link(s) to work**: https://github.com/hamletv/web_scraper
+
+
+### Day 6: January 8, 2018
+
+**Today's Progress**: Simple web scraper completed, extracts single data point and produces csv file.
+
+**Thoughts** Will look at Scrapy to make more complex web scraper.
+
+**Link(s) to work**: https://github.com/hamletv/web_scraper
