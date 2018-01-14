@@ -69,3 +69,39 @@
 **Thoughts** Will definitely look at Scrapy to make more complex web scraper tomorrow.
 
 **Link(s) to work**: https://github.com/hamletv/Analog_Clock
+
+
+### Day 8: January 10, 2018
+
+**Today's Progress**: Practiced on Interview Cake, started clock.
+
+**Thoughts** Will definitely look at Scrapy to make more complex web scraper tomorrow.
+
+**Link(s) to work**: https://github.com/hamletv/Analog_Clock
+
+
+### Day 9: January 11, 2018
+
+**Today's Progress**: Practiced on Interview Cake, started clock.
+
+**Thoughts** Will definitely look at Scrapy to make more complex web scraper tomorrow.
+
+**Link(s) to work**: https://github.com/hamletv/Analog_Clock
+
+
+### Day 10: January 12, 2018
+
+**Today's Progress**: Practiced on Interview Cake, started clock.
+
+**Thoughts** Will definitely look at Scrapy to make more complex web scraper tomorrow.
+
+**Link(s) to work**: https://github.com/hamletv/Analog_Clock
+
+
+### Day 11: January 13, 2018
+
+**Today's Progress**: Interview cake and worked on Scrapy web scraper
+
+**Thoughts** 
+
+**Link(s) to work**: https://github.com/hamletv/web_scraper
