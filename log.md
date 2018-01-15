@@ -105,3 +105,12 @@
 **Thoughts** 
 
 **Link(s) to work**: https://github.com/hamletv/web_scraper
+
+
+### Day 12: January 14, 2018
+
+**Today's Progress**: Read and practiced from tutorialspoint Python tutorials section; started HTML, CSS, JS project. 
+
+**Thoughts**: tutorialspoint seems to be good site to review.
+
+**Link(s) to work**: https://github.com/hamletv/CoolDrum_Kit
