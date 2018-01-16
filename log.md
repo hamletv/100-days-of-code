@@ -114,3 +114,12 @@
 **Thoughts**: tutorialspoint seems to be good site to review.
 
 **Link(s) to work**: https://github.com/hamletv/CoolDrum_Kit
+
+
+### Day 13: January 15, 2018
+
+**Today's Progress**: Continued work on drum kit project. 
+
+**Thoughts**: Need to switch my coding hours to during daytime, be more aware of what is going on.
+
+**Link(s) to work**: https://github.com/hamletv/CoolDrum_Kit
