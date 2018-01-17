@@ -123,3 +123,12 @@
 **Thoughts**: Need to switch my coding hours to during daytime, be more aware of what is going on.
 
 **Link(s) to work**: https://github.com/hamletv/CoolDrum_Kit
+
+
+### Day 14: January 16, 2018
+
+**Today's Progress**: Drum kit finished for the most part, functional. Need to replace deprecated feature. 
+
+**Thoughts**: Moving on from JS and switching gears to return to Python tomorrow. Just found some good projects to take on in Quora. I love you Quora.
+
+**Link(s) to work**: https://github.com/hamletv/CoolDrum_Kit
