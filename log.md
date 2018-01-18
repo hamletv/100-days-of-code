@@ -132,3 +132,12 @@
 **Thoughts**: Moving on from JS and switching gears to return to Python tomorrow. Just found some good projects to take on in Quora. I love you Quora.
 
 **Link(s) to work**: https://github.com/hamletv/CoolDrum_Kit
+
+
+### Day 15: January 17, 2018
+
+**Today's Progress**: Worked on Scrapy web scraper
+
+**Thoughts** Need to think of what to scrape. Headlines from NYT and other publications...?
+
+**Link(s) to work**: https://github.com/hamletv/web_scraper
