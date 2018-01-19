@@ -141,3 +141,12 @@
 **Thoughts** Need to think of what to scrape. Headlines from NYT and other publications...?
 
 **Link(s) to work**: https://github.com/hamletv/web_scraper
+
+
+### Day 16: January 18, 2018
+
+**Today's Progress**: Worked on Scrapy web scraper - Python virtual environment
+
+**Thoughts** Need to think of what to scrape.
+
+**Link(s) to work**: https://github.com/hamletv/web_scraper
